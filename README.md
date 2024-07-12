@@ -11,6 +11,11 @@
   </a>
   <img
     src="https://github-readme-stats.vercel.app/api?username=ks00919&show_icons=true&theme=graywhite"
+    height="150"
   />
+    <img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=algostudyy"
+      height="150"
+      />
 </div>
 </div>
