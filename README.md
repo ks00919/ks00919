@@ -60,7 +60,7 @@
     </div>
   <br>
     <div>
-        <p>🏆 Baekjoon solved rank 🏆</p>
+        <p>😎 Algorithm </p>
     </div>
     <div>
         <img
@@ -68,6 +68,15 @@
                 height="150"
                 alt="solved.ac"
         />
+        <img
+            src="[https://www.codetree.ai/profiles/algostudyy](https://www.codetree.ai/profiles/algostudyy)"
+            height="150"
+        />
+        <a href="https://www.codetree.ai/profiles/algostudyy">
+            <img
+                src="https://banner.codetree.ai/v1/banner/algostudyy" alt="코드트리|실력진단-algostudyy" 
+                height="150"
+            />
+        </a>
     </div>
-
 </div>
